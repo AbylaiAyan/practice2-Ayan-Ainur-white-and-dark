@@ -39,7 +39,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://abylaiayan.github.io/practice2-Ayan-Ainur-white-dark/practice2index.html)
 
 ## My process
 
